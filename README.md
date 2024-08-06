@@ -79,7 +79,7 @@ Sistem Manajemen Acara adalah aplikasi yang digunakan untuk mengelola berbagai j
 ### Langkah Instalasi
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/username/sistem-manajemen-acara.git
+    git clone https://github.com/luthfizufar/DesignPatterns-Event-Management-System
     ```
 2. Masuk ke direktori proyek:
     ```bash
