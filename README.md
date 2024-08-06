@@ -4,10 +4,10 @@ Sistem Manajemen Acara adalah aplikasi yang digunakan untuk mengelola berbagai j
 
 ## Kontribusi
 
- Kelompok Sunshine:
-10120087 – Luthfi Zufar Hermina
-10120094 – Tiara Trisanti Ramadhani
-10120121 – Muhammad Emir Fadlyanto
+#### Kelompok Sunshine:
+- 10120087 – Luthfi Zufar Hermina
+- 10120094 – Tiara Trisanti Ramadhani
+- 10120121 – Muhammad Emir Fadlyanto
 
 ## Fitur Utama
 - Membuat dan mengelola acara.
