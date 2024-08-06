@@ -1,0 +1,23 @@
+class NotificationService {
+  constructor(impl) {
+    this.impl = impl;
+  }
+
+  send(event, message) {
+    this.impl.send(event, message);
+  }
+}
+
+class EmailNotification {
+  send(event, message) {
+    console.log(`Sending email for ${event}: ${message}`);
+  }
+}
+
+class SMSNotification {
+  send(event, message) {
+    console.log(`Sending SMS for ${event}: ${message}`);
+  }
+}
+
+module.exports = { NotificationService, EmailNotification, SMSNotification };
